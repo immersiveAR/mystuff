@@ -42,7 +42,6 @@
  POSSIBILITY OF SUCH DAMAGE.
  
  Copyright (C) 2013 Apple Inc. All Rights Reserved.
- 
  */
 
 #import <UIKit/UIKit.h>
