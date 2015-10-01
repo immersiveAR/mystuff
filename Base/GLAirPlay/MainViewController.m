@@ -121,6 +121,7 @@
         // Display the fullscreen UI on the iPhone/iPad screen
         [self.view addSubview:self.userInterfaceController.view];
 	}
+    
 	else //handles disconnection of the external display
     {
         // Release external screen and window
